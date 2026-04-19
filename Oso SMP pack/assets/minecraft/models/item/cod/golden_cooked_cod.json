@@ -1,6 +1,0 @@
-{
-    "parent": "item/cod",
-    "textures": {
-        "layer0": "item/cod/golden_cooked_cod"
-    }
-}
