@@ -1,0 +1,6 @@
+{
+    "parent": "item/cod",
+    "textures": {
+        "layer0": "minecraft:item/cod/golden_cod"
+    }
+}
