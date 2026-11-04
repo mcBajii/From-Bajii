@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "min_format": 97,
+        "max_format":97,
+        "description": "a resourcepack for weapons on OSO SMP by MC_Bajii"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "min_format": 97,
+                "max_format": 97,
+                "directory": "modern_textures"
+            }
+        ]
+    }
+}
